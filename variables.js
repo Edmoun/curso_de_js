@@ -14,4 +14,4 @@ var persona = {
     edad = "17"
 }
 
-hola MutationRecor
+hola
